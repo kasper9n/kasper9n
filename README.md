@@ -30,7 +30,7 @@
 | 209 | <a href="https://github.com/kasper9n/kadium"><b>kadium</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | App for staying ontop of YouTube channels' uploads |
 | 13 | <a href="https://github.com/kasper9n/starchart"><b>starchart</b> <img src="https://raw.githubusercontent.com/devicons/devicon/e9bd76ead0b7ea6dde1b108d902868bd90195aa9/icons/svelte/svelte-original.svg" width="14" height="14" /></a> | GitHub star history graph |
 | 168 | <a href="https://github.com/kasper9n/mr-tagger"><b>mr-tagger</b> <img src="./rust.svg" width="14" height="14" /></a> | Music file tagging app for Mac, Linux and Windows |
-| 194 | <a href="https://github.com/kasper9n/time-machine-inspector"><b>time-machine-inspector</b> <img src="./rust.svg" width="14" height="14" /></a> | Time Machine backup size inspector app |
+| 195 | <a href="https://github.com/kasper9n/time-machine-inspector"><b>time-machine-inspector</b> <img src="./rust.svg" width="14" height="14" /></a> | Time Machine backup size inspector app |
 | 178 | <a href="https://github.com/kasper9n/remind-me-again"><b>remind-me-again</b> <img src="./rust.svg" width="14" height="14" /></a> | Toggleable cron reminders app for Mac, Linux and Windows |
 | 8 | <a href="https://github.com/kasper9n/vidl"><b>vidl</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" height="14" /></a> | CLI for downloading video/audio |
 | 4 | <a href="https://github.com/kasper9n/taskler"><b>taskler</b> <img src="https://stylus-lang.com/logo.svg" width="14" height="14" /></a> | Simple text editor for your New Tab page |
